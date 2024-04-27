@@ -1,0 +1,56 @@
+/* CSS for Login Form */
+.container{
+  width: 300px;
+  padding: 2rem 1rem;
+  margin: 50px auto;
+  border: white;
+  background-origin: 10px;
+  text-align: center;
+  box-shadow: 0 20px 35px rgb(95, 93, 93);
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background: rgb(207, 204, 204);
+}
+
+button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #156b36;
+  border: none;
+  border-radius: 20px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.liit{
+  text-size-adjust: 8%;
+}
+button[type="submit"]:hover {
+  background-color: #2fbd4e;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color:#156b36;
+}
+
